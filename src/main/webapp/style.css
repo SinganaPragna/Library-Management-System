@@ -1,0 +1,26 @@
+body {
+    background-color: #f7f9fc;
+}
+
+.welcome-section {
+    background-color: #ffffff;
+    border: 1px solid #dce3ee;
+    border-radius: 8px;
+    padding: 48px 24px;
+}
+
+.form-box {
+    max-width: 720px;
+    background-color: #ffffff;
+    border: 1px solid #dce3ee;
+    border-radius: 8px;
+    padding: 24px;
+}
+
+.navbar-brand {
+    font-weight: 600;
+}
+
+.table {
+    background-color: #ffffff;
+}
